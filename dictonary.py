@@ -1,7 +1,7 @@
-my_dictonary = {"name":"Geo" , "Age" : 20}
+my_dict = {"name":"Geo" , "Age" : 20}
 
-another_dictonary = dict ( city = "london" , country = "UK")
+another_dict = dict ( city = "london" , country = "UK")
 
-print (my_dictonary ["name"])
+print (my_dic ["name"])
 
-print (my_dictonary.get("age"))
+print (my_dict.get("age"))
